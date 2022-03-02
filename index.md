@@ -50,6 +50,9 @@ layout: default
 
 # Principais Projetos
 
+* [dio-experts-session-4](https://github.com/SoldierJVX/dio-experts-session-4)
+    Implementação de Arquitetura de Microserviços com API Gateway, Config Server e Server Discovery
+
 * [spring-rest-michelli-brito-2022](https://github.com/SoldierJVX/spring-rest-michelli-brito-2022)
     Implementação de serviço REST com Spring WEB, JPA, Validation, Postgres, Lombok e Swagger de Controle de Estacionamento
 
