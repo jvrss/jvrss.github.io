@@ -48,7 +48,7 @@ layout: default
     <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
 </a>
 
-# Projetos
+# Principais Projetos
 
 * [spring-rest-michelli-brito-2022](https://github.com/SoldierJVX/spring-rest-michelli-brito-2022)
     Implementação de serviço REST com Spring WEB, JPA, Validation, Postgres, Lombok e Swagger de Controle de Estacionamento
