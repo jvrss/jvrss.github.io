@@ -3,7 +3,7 @@ layout: default
 ---
 # Sobre min
 
-💡 &nbsp; Sou Senior Analista Desenvolvedor na TCS - Tata Consultancy Services, produzindo softwares com tecnologia Java.\
+💡 &nbsp; Sou Analista Desenvolvedor Pleno no Bradesco, produzindo softwares com tecnologia Java.\
 🎓 &nbsp; Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (2021).
  - Tenho 6 semestres do curso de Sistemas da Informação da UFMS.
  - Tenho formação técnica em Auxiliar de Informática pela ETESP (2014)
