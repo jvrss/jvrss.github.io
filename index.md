@@ -1,27 +1,27 @@
 ---
 layout: default
 ---
-# Sobre min
+# About Me
 
-💡 &nbsp; Sou Analista Desenvolvedor Pleno no Bradesco, produzindo softwares com tecnologia Java.\
-🎓 &nbsp; Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (2021).
- - Tenho 6 semestres do curso de Sistemas da Informação da UFMS.
- - Tenho formação técnica em Auxiliar de Informática pela ETESP (2014)
+💡 &nbsp; I'm a Software Engineer at Bradesco, producing software with Java technology.\
+🎓 &nbsp; I have a degree in Systems Analysis and Development from Universidade Anhembi Morumbi (2021).
+ - I have 6 semesters of the Information Systems course at UFMS.
+ - I have technical training in Computer Assistant by ETESP (2014)
 
-🌱 &nbsp; Estou aprimorando minhas habilidades nas tecnologias Spring, Cloud e Angular.\
-✍️ &nbsp; No meu tempo livre, vejo animes e jogo. Também continuo aprimorando minhas habilidades.\
-✉️ &nbsp; Meu email para contato é jv_rss@hotmail.com. \
-📄 &nbsp; Você pode ver meu currículo em [Currículo](https://1drv.ms/w/s!AmJ1CpQJCAx5gasFN0UTo8XIEVenhQ?e=wE41ke) para mais detalhes da minha experiencia profissional.
+🌱 &nbsp; I am improving my skills in Spring, Cloud and Angular technologies.\
+✍️ &nbsp; In my spare time, I watch anime and play games. I also continue to improve my skills.\
+✉️ &nbsp; My contact email is jv_rss@hotmail.com. \
+📄 &nbsp; You can see my resume at [Resume](https://1drv.ms/w/s!AmJ1CpQJCAx5gasFN0UTo8XIEVenhQ?e=wE41ke) for more details of my professional experience.
 
 # 🛠 &nbsp;Tech Stack
 
-## Linguagens
+## Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-## Tecnologias
+## Technologies
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Mysql](https://img.shields.io/badge/-MySQL-00000F?logo=mysql)
@@ -40,7 +40,7 @@ layout: default
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
-# 📫 &nbsp; Como me contatar:
+# 📫 &nbsp; How to contact me:
 
 <a target="_blank" href="https://www.linkedin.com/in/jvrss/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:jv_rss@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook--000?style=social&logo=microsoft-outlook" /></a> &nbsp;
@@ -48,16 +48,16 @@ layout: default
     <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
 </a>
 
-# Principais Projetos
+# Main projects
 
 * [dio-experts-session-4](https://github.com/SoldierJVX/dio-experts-session-4)
-    Implementação de Arquitetura de Microserviços com API Gateway, Config Server e Server Discovery
+    Implementing Microservices Architecture with API Gateway, Config Server and Server Discovery
 
 * [spring-rest-michelli-brito-2022](https://github.com/SoldierJVX/spring-rest-michelli-brito-2022)
-    Implementação de serviço REST com Spring WEB, JPA, Validation, Postgres, Lombok e Swagger de Controle de Estacionamento
-
+    Implementation of REST service with Spring WEB, JPA, Validation, Postgres, Lombok and Swagger for Parking Control
+  
 * [udemy-spring-e-hibernate](https://github.com/SoldierJVX/udemy-spring-e-hibernate)
-    Estudos sobre Spring e Hibernate com vários conceitos das duas tecnologias
+    Studies on Spring and Hibernate with various concepts of both technologies
 
 * [api-rest-spring-webflux-2019-michelli-brito](https://github.com/SoldierJVX/api-rest-spring-webflux-2019-michelli-brito)
-    Implementação de Microserviço REST com programação reativa com Spring Webflux, MongoDB e Swagger
+    REST Microservice Implementation with Reactive Programming with Spring Webflux, MongoDB and Swagger
