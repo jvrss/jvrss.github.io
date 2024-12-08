@@ -11,7 +11,7 @@ layout: default
 🌱 &nbsp; I am improving my skills in Spring, Cloud and Angular technologies.\
 ✍️ &nbsp; In my spare time, I watch anime and play games. I also continue to improve my skills.\
 ✉️ &nbsp; My contact email is jv_rss@hotmail.com. \
-📄 &nbsp; You can see my resume at [Resume](https://1drv.ms/w/s!AmJ1CpQJCAx5gasFN0UTo8XIEVenhQ?e=wE41ke) for more details of my professional experience.
+📄 &nbsp; You can see my resume at [Resume](https://1drv.ms/w/s!AmJ1CpQJCAx5g6oxmTOIRvZvYNCnrw?e=fhF2XO) for more details of my professional experience.
 
 # 🛠 &nbsp;Tech Stack
 
