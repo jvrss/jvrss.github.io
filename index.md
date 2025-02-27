@@ -3,7 +3,7 @@ layout: default
 ---
 # About Me
 
-💡 &nbsp; I'm a Software Engineer at Bradesco, producing software with Java technology.\
+💡 &nbsp; I'm a Senior Software Engineer at Keeggo, producing software with Java technology.\
 🎓 &nbsp; I have a degree in Systems Analysis and Development from Universidade Anhembi Morumbi (2021).
  - I have 6 semesters of the Information Systems course at UFMS.
  - I have technical training in Computer Assistant by ETESP (2014)
